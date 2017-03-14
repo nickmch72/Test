@@ -1,0 +1,7 @@
+C:\Temp\TESTS\plugins\C#\FirstPlugin\bin\Debug\FirstPlugin.dll
+C:\Temp\TESTS\plugins\C#\FirstPlugin\bin\Debug\FirstPlugin.pdb
+C:\Temp\TESTS\plugins\C#\FirstPlugin\bin\Debug\PluginContracts.dll
+C:\Temp\TESTS\plugins\C#\FirstPlugin\bin\Debug\PluginContracts.pdb
+C:\Temp\TESTS\plugins\C#\FirstPlugin\obj\Debug\FirstPlugin.csprojResolveAssemblyReference.cache
+C:\Temp\TESTS\plugins\C#\FirstPlugin\obj\Debug\FirstPlugin.dll
+C:\Temp\TESTS\plugins\C#\FirstPlugin\obj\Debug\FirstPlugin.pdb
