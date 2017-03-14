@@ -56,7 +56,7 @@ namespace SimplePlugin
 							}
 							else
 							{
-								if(type.GetInterface(pluginType.FullName) != null)
+								if( null != type.GetInterface(pluginType.FullName) )
 								{
 									pluginTypes.Add(type);
 								}
