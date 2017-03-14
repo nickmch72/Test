@@ -1,4 +1,0 @@
-C:\Temp\TESTS\plugins\C#\PluginContracts\bin\Debug\PluginContracts.dll
-C:\Temp\TESTS\plugins\C#\PluginContracts\bin\Debug\PluginContracts.pdb
-C:\Temp\TESTS\plugins\C#\PluginContracts\obj\Debug\PluginContracts.dll
-C:\Temp\TESTS\plugins\C#\PluginContracts\obj\Debug\PluginContracts.pdb

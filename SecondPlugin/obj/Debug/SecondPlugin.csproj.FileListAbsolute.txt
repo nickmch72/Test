@@ -1,7 +1,0 @@
-C:\Temp\TESTS\plugins\C#\SecondPlugin\bin\Debug\SecondPlugin.dll
-C:\Temp\TESTS\plugins\C#\SecondPlugin\bin\Debug\SecondPlugin.pdb
-C:\Temp\TESTS\plugins\C#\SecondPlugin\bin\Debug\PluginContracts.dll
-C:\Temp\TESTS\plugins\C#\SecondPlugin\bin\Debug\PluginContracts.pdb
-C:\Temp\TESTS\plugins\C#\SecondPlugin\obj\Debug\SecondPlugin.csprojResolveAssemblyReference.cache
-C:\Temp\TESTS\plugins\C#\SecondPlugin\obj\Debug\SecondPlugin.dll
-C:\Temp\TESTS\plugins\C#\SecondPlugin\obj\Debug\SecondPlugin.pdb
